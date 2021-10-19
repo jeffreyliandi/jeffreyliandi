@@ -2,7 +2,7 @@
 - 👀 I’m interested in Chemical Engineering and Data Science 
 - 🌱 I’m currently learning Automotive and Robotics Engineering
 - 💞️ I’m looking to collaborate on learning programming
-- 📫 How to reach me jeffreyliandi4@live.com
+- 📫 How to reach me 92776790+jeffreyliandi@users.noreply.github.com
 
 <!---
 jeffreyliandi/jeffreyliandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
