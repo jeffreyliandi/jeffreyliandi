@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffreyliandi
-- 👀 I’m interested in Chemical Engineering and Data Science 
-- 🌱 I’m currently learning Automotive and Robotics Engineering
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on learning programming
 - 📫 How to reach me instagram.com/jeffreyliandi
 
